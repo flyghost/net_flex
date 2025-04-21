@@ -1,0 +1,4 @@
+[submodule "3rd/mempool"]
+    path = 3rd/mempool
+    url = https://github.com/flyghost/mempool.git
+    branch = master
